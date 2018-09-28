@@ -39,6 +39,5 @@ module.exports = function check(str, bracketsConfig) {
     result = false;
     break;
   }
-
   return result;
 }
